@@ -6,6 +6,7 @@ gem 'unicorn'
 gem 'capistrano'
 gem 'bcrypt-ruby', '~> 3.0.0'
 gem 'jquery-rails'
+gem 'mysql2'
 
 
 group :assets do
